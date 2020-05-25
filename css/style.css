@@ -1,0 +1,307 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+width: 1440px;
+height: 2047px;
+margin:auto;
+background-color:#E5E5E5;
+
+}
+.news{
+    font-family: "Playfair Display",;
+    font-style: normal;
+    margin:auto;
+    width: 347px;
+  padding-top:60px;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 47px;
+    /* identical to box height */
+
+    letter-spacing: 1px;
+
+    /* черный */
+
+    color: #000000;
+}
+.white{
+    background:white;
+}
+.ul{
+   
+    margin-top:46px;
+margin-bottom:47px;
+margin-left:135px;
+}
+.tema {
+    font-family:"Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    letter-spacing: 2px;
+
+    color: #000000;
+ margin-right: 50px;
+    display: inline-block;
+   justify-content: space-between;
+  
+}
+.anderwoter-hotels{
+    height: 464px;
+background:url("../img/Hotel-11.png");
+width: 1440px;
+}
+.image {
+
+    display: block;
+    margin:auto;
+    padding-top:46px;
+     
+  padding-bottom:32px;
+   
+}
+.ander-hotel
+{
+    margin-bottom: 139px;
+    font-family:"Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.description {
+    display: flex;
+    margin:auto;
+font-family: "Roboto";
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+text-align: center;
+width: 456px;
+color: #FFFFFF;
+
+}
+.cart-title{
+font-family: "Playfair Display" ;
+font-style: normal;
+font-weight: 900;
+font-size: 23px;
+line-height: 31px;
+margin-top:20px;
+width: 368px;
+margin-bottom:11px;
+color: #000000;
+cursor: pointer;
+}
+.reviews{
+    width: 80px;
+    margin:auto;
+    margin-top:44px;
+margin-bottom: 20px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+/* identical to box height */
+
+letter-spacing: 2px;
+
+color: #000000;
+
+}
+.carts{
+    
+    display: flex;
+   margin-left: 137px;
+   margin-bottom:53px;
+}
+.cart-text{
+    margin-right: 30px;
+    font-family: "Roboto";
+
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+   line-height: 150%;
+    width: 370px;
+    
+
+    color: #000000;
+}
+.cart-title:hover{
+    color: #FF7931;
+
+
+}
+
+.circle{
+    background-color:white;
+    border-radius: 100%;
+    width: 707px;
+    height: 707px;
+    margin-left: 366px;
+    margin-top: -126px;
+   
+    
+}
+.season-ticket {
+    background:#F7F7F7;
+    text-align: center;
+padding-top:53px;
+height:500px;
+
+
+    
+    
+}
+.season-ticket-title{
+    padding-top: 108px;
+font-family: "Roboto";
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 20px;
+width: 225px;
+margin:auto;
+letter-spacing: 2px;
+margin-bottom: 35px;
+color: #000000;
+}
+.season-ticket-text{
+font-family: "Playfair Display";
+font-style: normal;
+width: 368px;
+ font-weight: bolder;
+font-size: 23px;
+line-height: 31px;
+margin:auto;
+color: #000000;
+
+margin-bottom: 10px;
+}
+hr{
+    width: 100px;
+    background-color:rgb(0,0,0,0,2);
+    height: 1px;
+    mix-blend-mode: normal;
+margin:auto;
+    opacity: 0.4;
+    margin-top:23px;
+    margin-bottom:24px;
+}
+.p-season-ticket{
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 150%;
+  
+    width: 370px;
+    text-align: center;
+    margin:auto;
+    color: #000000;
+    
+}
+
+.buttons{
+background: #FF7931;
+width: 170px;
+border:1px solid #FF7931;
+margin-top:25px;
+height: 47px;
+outline: 0;
+}
+.button-arrow{
+    margin-top:-6px
+}
+.button-text{
+ display: flex;
+ margin-top:11px;
+    width: 80px;
+    margin-left: 30px;
+    margin-right:7px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.footer{
+    background: #575757;
+    margin-top:50px;
+}
+.culture_News{
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 28px;
+    line-height: 37px;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+   padding-top:26px;
+   text-align: center;
+
+}
+.tema_footer
+{
+   font-family:"Roboto";
+   font-style: normal;
+   font-weight: normal;
+   font-size: 15px;
+   line-height: 18px;
+   letter-spacing: 2px;
+     color: #FFFFFF;
+    margin-right: 50px;
+    display: inline-block;
+    justify-content: space-between;
+
+
+}
+.footer_hr{
+    margin-left: 135px;
+width: 1185px;
+opacity: 0.4;
+background-color: #FFFFFF;
+margin-bottom:42px;
+}
+.blocks
+{
+    margin-left: 635px;
+}
+.block{
+    background:white;
+   width: 47px;
+   height: 47px;
+   margin-right:14px;
+display:inline-block;
+margin-bottom:46px; 
+
+   
+  
+}
+.img-block{
+height:24px;
+width:23px;
+margin-left:25%;
+margin-right: 25%;
+margin-top:11px;
+
+    
+}
